@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studies **Computer Science and Engineering (CSE) at Kalinga Institution of Industrial Technology (KIIT), Bhubaneswar**
 
-- 🌱 Currently I am an intermediate Developer and exploring new technologies in **Artificial Intelligence and Machine Learning🧑‍💻.**
+- 🌱 Currently I am an intermediate Developer and exploring new technologies in **Data Science and Machine Learning🧑‍💻.**
 
 - 👯 I’m interested in **Coding, Photography, Travelling.**
 
