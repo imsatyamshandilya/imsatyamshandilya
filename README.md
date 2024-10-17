@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Tiwary</h1>
 <h3 align="center">A passionate Data Science and AI-ML Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdurgeshsamariya%2Fawesome-github-profile-readme-templates%2Fblob%2Fmaster%2Ftemplates%2F100rabhcsmc.md&psig=AOvVaw2Yx6S_NKcwrVdcIuWVfELx&ust=1729244756095000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjmoO6QlYkDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsatyamshandilya&label=Profile%20views&color=0e75b6&style=flat" alt="imsatyamshandilya" /> </p>
 
