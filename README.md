@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Tiwary</h1>
-<h3 align="center">A passionate Data Science and AI-ML Developer.</h3>
+<h3 align="center">Programmer Analyst Trainee</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
@@ -7,7 +7,8 @@
 
 - 🔭 I’m studies **Computer Science and Engineering (CSE) from Kalinga Institution of Industrial Technology (KIIT), Bhubaneswar**
 
-- 🌱 Currently I am an Developer and exploring new technologies in **Data Science and Machine Learning🧑‍💻.**
+- 🌱 Currently I am an Programmer Analyst Trainee in **Cognizant**.
+- 🌱 Passionate and Exploring new technologies in **Data Science and Machine Learning🧑‍💻.**
 
 - 👯 I’m interested in **Coding, Photography, Travelling.**
 
